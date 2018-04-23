@@ -17,7 +17,7 @@ public interface VideoGameDao {
 
     //allows to add a single game to the list
     @Insert
-    void addVideoGame(VideoGame getvideoGame);
+    void addVideoGame(VideoGame getVideoGame);
 
     //allows us to update the values of an existing game
     @Update

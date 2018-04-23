@@ -3,4 +3,12 @@
     <string name="add_game">Add Game</string>
     <string name="name_game">Name of you game</string>
     <string name="title_game">Title for your game</string>
+    <string name="game_title">Game Title</string>
+    <string name="genre">Genre %1$s</string>
+    <string name="due_date">due date: %1$s</string>
+    <string name="check_in_game">Check-in Game?</string>
+    <string name="check_in_message">Are you sure you would like to check in this game?</string>
+    <string name="yes">Yes</string>
+    <string name="game_checked_in">Game is checked in!</string>
+    <string name="no">No</string>
 </resources>
